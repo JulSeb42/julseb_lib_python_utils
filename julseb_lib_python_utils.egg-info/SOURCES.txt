@@ -1,3 +1,5 @@
+LICENSE
+README.md
 pyproject.toml
 julseb_lib_python_utils/__init__.py
 julseb_lib_python_utils/add_day.py

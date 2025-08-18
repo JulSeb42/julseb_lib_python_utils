@@ -1,2 +1,4 @@
 .venv
 dist
+.env
+README.local.md
