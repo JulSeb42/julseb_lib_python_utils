@@ -23,7 +23,7 @@ def slugify(string: str) -> str:
     formatted_string = formatted_string.strip()
     formatted_string = formatted_string.lower()
 
-    from_chars = "àáäâèéëêìíïîòóöôùúüûñç·/_,:;-"
+    from_chars = "àáäâèéëêìíïîòóöôùúüûñç·/_,:;"
     to_chars = "aaaaeeeeiiiioooouuuunc------"
     trans = str.maketrans(from_chars, to_chars)
     formatted_string = formatted_string.translate(trans)

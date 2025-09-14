@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: julseb_lib_python_utils
-Version: 1.0.0
+Version: 1.0.1
 Summary: A collection of utility functions
 Author-email: Julien Sebag <julien.sebag@me.com>
 Requires-Python: >=3.7

@@ -11,4 +11,4 @@ def unslugify(string: str) -> str:
     Returns:
         str: The unslugified, sentence-cased string.
     """
-    return to_sentence_case(string.replace("-", " ").replace("_", " "))
+    return string.replace("-", " ").replace("_", " ").replace("/", " ").lower()
