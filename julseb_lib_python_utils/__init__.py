@@ -9,7 +9,9 @@ from .convert_date import convert_date
 from .convert_price import convert_price
 from .convert_to_email import convert_to_email
 from .convert_youtube import convert_youtube
+from .decrypt import decrypt
 from .delete_duplicates import delete_duplicates
+from .encrypt import encrypt
 from .filter_object import filter_object
 from .format_date import format_date
 from .format_hour import format_hour

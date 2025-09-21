@@ -13,7 +13,9 @@ julseb_lib_python_utils/convert_date_short.py
 julseb_lib_python_utils/convert_price.py
 julseb_lib_python_utils/convert_to_email.py
 julseb_lib_python_utils/convert_youtube.py
+julseb_lib_python_utils/decrypt.py
 julseb_lib_python_utils/delete_duplicates.py
+julseb_lib_python_utils/encrypt.py
 julseb_lib_python_utils/filter_object.py
 julseb_lib_python_utils/format_date.py
 julseb_lib_python_utils/format_hour.py
