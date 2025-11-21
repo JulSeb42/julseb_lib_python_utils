@@ -2,3 +2,4 @@
 dist
 .env
 README.local.md
+.DS_Store
